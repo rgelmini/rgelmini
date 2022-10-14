@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning a bit more about Python!
 - 👯 I’m looking to collaborate with other developpers
 - 💬 Ask me about managing projects and giving training to beginners
-- ⚡ Fun fact: never to late to start learning => taking piano lessoons
+- ⚡ Fun fact: never too late to start learning => taking piano lessoons
